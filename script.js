@@ -10,7 +10,7 @@ const questionPools = {
         {
             question: "W jakiej lekturze szkolnej pojawia sie watek chlopomani?",
             options: ["Zemasta", "Dziady cz3", "Balladyna", "Wesele"],
-            correctAnswer: 2
+            correctAnswer: 3
         }
     ],
     C: [
